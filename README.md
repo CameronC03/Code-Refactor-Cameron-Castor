@@ -8,5 +8,4 @@ I learned the littlest errors could mess up the whole page.
 
 
 https://cameronc03.github.io/Code-Refactor-Cameron-Castor/
-![screencapture-cameronc03-github-io-Code-Refactor-Cameron-Castor-2021-08-27-23_11_34](https://user-images.githubusercontent.com/88913327/131207092-73835d44-8eb8-4da6-b551-913fa49d1a1c.png)
-
+![screencapture-file-C-Users-camer-Desktop-boootcamp-Working-material-Homework-Code-Refactor-Cameron-Castor-index-html-2021-08-27-23_31_14](https://user-images.githubusercontent.com/88913327/131207483-1ea44e32-7c38-4510-8f92-bf9e59e29519.png)
