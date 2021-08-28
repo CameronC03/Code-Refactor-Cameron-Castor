@@ -98,7 +98,7 @@ p {
     max-width: 150px;
 }
 
-.online-reputation-management, .social-media-marketing, .search-engine-optimization { /*/condensed 3 lines of code into one/*/
+.online-reputation-management, .social-media-marketing, #search-engine-optimization { /*/condensed 3 lines of code into one/*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,11 +107,11 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img { /*/condensed 3 lines of code into one/*/
+#search-engine-optimization img, .online-reputation-management img, .social-media-marketing img { /*/condensed 3 lines of code into one/*/
     max-height: 200px;
 }
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 { /*/ condensed 3 lines of code into one/*/
+#search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 { /*/ condensed 3 lines of code into one/*/
     margin-bottom: 20px;
     font-size: 36px;
 }
