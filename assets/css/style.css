@@ -59,9 +59,14 @@ p {
     background-position: center;
 }
 
-.float-left, .float-right { /*/condensed it down to one line because 2 lines of code were achieving the same thing./*/ 
+.float-left{
     float: left;
     margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .content {
@@ -126,7 +131,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-
-
-
-
